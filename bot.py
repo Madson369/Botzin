@@ -404,4 +404,4 @@ def lerolero1():
              
 #putaria aq acima
 
-client.run('nn esse aq é secreto')
+client.run('fuck?')
