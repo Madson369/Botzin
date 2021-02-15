@@ -20,7 +20,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/trovao.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -36,7 +36,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/respect.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -58,7 +58,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/bababui.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -74,7 +74,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/barroso.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -90,7 +90,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/barroso.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -106,7 +106,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/miau.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -122,7 +122,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/almeda.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -138,7 +138,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/calaboca.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -172,7 +172,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/miau1.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -188,7 +188,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/nao.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -204,7 +204,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/kpop.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -220,7 +220,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/uepa.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -236,7 +236,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/queisso.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -252,7 +252,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/pau.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -268,7 +268,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/cavalo.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -284,7 +284,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/parapara.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -300,7 +300,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/quebras.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -316,7 +316,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/porta.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -333,7 +333,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/primeira.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
@@ -351,7 +351,7 @@ class barulhos(commands.Cog):
         channel = ctx.message.author.voice.channel
         await channel.connect()
 
-        vc = ctx.voice_client  # We use it more then once, so make it an easy variable
+        vc = ctx.voice_client   
 
         vc.play(discord.FFmpegPCMAudio('C:/Users/Madso/Desktop/Bot/macaco.mp3'),
                 after=lambda e: print(f"Finished playing: {e}"))
