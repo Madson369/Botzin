@@ -404,4 +404,4 @@ def lerolero1():
              
 #putaria aq acima
 
-client.run('Nzc5OTUwODk2ODU1MTIxOTMw.X7n_4A.hdMYOMzbCLONR0bIuTd8LgT5zlY')
+client.run('nn esse aq é secreto')
